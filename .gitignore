@@ -1,1 +1,4 @@
-export_weights/*
+export_weights/**
+build/**
+demo/**
+torchnssd.egg-info/**
